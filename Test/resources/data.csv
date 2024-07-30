@@ -1,0 +1,4 @@
+*** Test cases ***      username    password
+Invalid username        hsdsk       learning
+Invalid password        rahulsheety 211131
+Special characters      %^&&&       learning
